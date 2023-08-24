@@ -1,0 +1,96 @@
+{
+    "Martha": {
+        "Daily Activities": {
+            "questions": [
+                "I see. Moving on, when it comes to dressing, can Martha put on her clothes without any assistance? Or does she struggle with certain aspects like buttons, zippers, or shoe laces?",
+                "I see. Moving on, when it comes to dressing, can Martha put on her clothes without any assistance? Or does she struggle with certain aspects like buttons, zippers, or shoe laces?"
+            ],
+            "answers": [
+                "Manages independently",
+                "Requires occasional assistance"
+            ],
+            "scores": [
+                3,
+                2
+            ],
+            "total_score": 5
+        },
+        "Social": {
+            "questions": [
+                "I see. Moving on, when it comes to dressing, can Martha put on her clothes without any assistance? Or does she struggle with certain aspects like buttons, zippers, or shoe laces?",
+                "I see. Moving on, when it comes to dressing, can Martha put on her clothes without any assistance? Or does she struggle with certain aspects like buttons, zippers, or shoe laces?"
+            ],
+            "answers": [
+                "Occasionally",
+                "Occasionally"
+            ],
+            "scores": [
+                2,
+                2
+            ],
+            "total_score": 4
+        },
+        "Mobility": {
+            "questions": [
+                "I see. Moving on, when it comes to dressing, can Martha put on her clothes without any assistance? Or does she struggle with certain aspects like buttons, zippers, or shoe laces?",
+                "I see. Moving on, when it comes to dressing, can Martha put on her clothes without any assistance? Or does she struggle with certain aspects like buttons, zippers, or shoe laces?"
+            ],
+            "answers": [
+                "Manages independently",
+                "Manages independently"
+            ],
+            "scores": [
+                3,
+                3
+            ],
+            "total_score": 6
+        },
+        "Cognition": {
+            "questions": [
+                "I see. Moving on, when it comes to dressing, can Martha put on her clothes without any assistance? Or does she struggle with certain aspects like buttons, zippers, or shoe laces?",
+                "I see. Moving on, when it comes to dressing, can Martha put on her clothes without any assistance? Or does she struggle with certain aspects like buttons, zippers, or shoe laces?"
+            ],
+            "answers": [
+                "Frequently",
+                "Constantly"
+            ],
+            "scores": [
+                1,
+                0
+            ],
+            "total_score": 1
+        },
+        "Mind": {
+            "questions": [
+                "I see. Moving on, when it comes to dressing, can Martha put on her clothes without any assistance? Or does she struggle with certain aspects like buttons, zippers, or shoe laces?",
+                "I see. Moving on, when it comes to dressing, can Martha put on her clothes without any assistance? Or does she struggle with certain aspects like buttons, zippers, or shoe laces?"
+            ],
+            "answers": [
+                "Frequently",
+                "Constantly"
+            ],
+            "scores": [
+                1,
+                0
+            ],
+            "total_score": 1
+        },
+        "Independence (IADL)": {
+            "questions": [
+                "I see. Moving on, when it comes to dressing, can Martha put on her clothes without any assistance? Or does she struggle with certain aspects like buttons, zippers, or shoe laces?",
+                "I see. Moving on, when it comes to dressing, can Martha put on her clothes without any assistance? Or does she struggle with certain aspects like buttons, zippers, or shoe laces?",
+                "Thanks for sharing. Does Martha still use the phone? Is she able to make and answer calls independently?"
+            ],
+            "answers": [
+                "Manages independently",
+                "Needs frequent assistance",
+                "Manages independently"
+            ],
+            "scores": [
+                2,
+                1
+            ],
+            "total_score": 3
+        }
+    }
+}

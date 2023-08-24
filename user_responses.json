@@ -1,0 +1,419 @@
+{
+    "check_ins": [
+        {
+            "Week 1": {
+                "current_question_index": 8,
+                "Q1": {
+                    "question": {
+                        "question": "How is Martha's mood today?",
+                        "options": [
+                            "Agitated",
+                            "Angry",
+                            "Frustrated",
+                            "Lost",
+                            "Neutral",
+                            "Happy"
+                        ]
+                    },
+                    "response": "Angry"
+                },
+                "Q2": {
+                    "question": {
+                        "question": "Has Martha experienced any of the following in the past week?",
+                        "options": [
+                            "Increasing irritability",
+                            "Wandering",
+                            "Delusions"
+                        ]
+                    },
+                    "response": "Increasing irritability"
+                },
+                "Q3": {
+                    "question": "How long did Martha sleep yesterday?",
+                    "response": "5 hours"
+                },
+                "Q4": {
+                    "question": {
+                        "question": "How was Martha's sleep yesterday?",
+                        "options": [
+                            "Well rested",
+                            "Woke up once",
+                            "Woke up 2 or 3 times",
+                            "Woke up 4 or more times",
+                            "Disrupted"
+                        ]
+                    },
+                    "response": "Woke up 2 or 3 times"
+                },
+                "Q5": {
+                    "question": {
+                        "question": "Has Martha experienced any vomiting in the past week? (yes/no)",
+                        "options": [
+                            "yes",
+                            "no"
+                        ]
+                    },
+                    "response": "yes"
+                },
+                "Q6": {
+                    "question": {
+                        "question": "How many times in the past week?",
+                        "options": [
+                            "Once only",
+                            "2 to 3 times",
+                            "4 to 5 times",
+                            "More than 5 times"
+                        ]
+                    },
+                    "response": "once only"
+                },
+                "Q7": {
+                    "question": {
+                        "question": "For how long did the episode last?",
+                        "options": [
+                            "Less than 30 minutes",
+                            "30 mins to an hour",
+                            "1 to 4 hours",
+                            "Full day"
+                        ]
+                    },
+                    "response": "less than 30 minutes"
+                },
+                "Q8": {
+                    "question": {
+                        "question": "How did it impact Martha's daily activities?",
+                        "options": [
+                            "Difficulty eating and drinking",
+                            "Difficulty walking",
+                            "Fatigue",
+                            "Severe dehydration"
+                        ]
+                    },
+                    "response": "fatigue"
+                }
+            }
+        },
+        {
+            "Week 2": {
+                "current_question_index": 8,
+                "Q1": {
+                    "question": {
+                        "question": "How is Martha's mood today?",
+                        "options": [
+                            "Agitated",
+                            "Angry",
+                            "Frustrated",
+                            "Lost",
+                            "Neutral",
+                            "Happy"
+                        ]
+                    },
+                    "response": "agitated"
+                },
+                "Q2": {
+                    "question": {
+                        "question": "Has Martha experienced any of the following in the past week?",
+                        "options": [
+                            "Increasing irritability",
+                            "Wandering",
+                            "Delusions"
+                        ]
+                    },
+                    "response": "Wandering"
+                },
+                "Q3": {
+                    "question": "How long did Martha sleep yesterday?",
+                    "response": "upto 5 hours"
+                },
+                "Q4": {
+                    "question": {
+                        "question": "How was Martha's sleep yesterday?",
+                        "options": [
+                            "Well rested",
+                            "Woke up once",
+                            "Woke up 2 or 3 times",
+                            "Woke up 4 or more times",
+                            "Disrupted"
+                        ]
+                    },
+                    "response": "disrupted"
+                },
+                "Q5": {
+                    "question": {
+                        "question": "Has Martha experienced any vomiting in the past week? (yes/no)",
+                        "options": [
+                            "yes",
+                            "no"
+                        ]
+                    },
+                    "response": "yes"
+                },
+                "Q6": {
+                    "question": {
+                        "question": "How many times in the past week?",
+                        "options": [
+                            "Once only",
+                            "2 to 3 times",
+                            "4 to 5 times",
+                            "More than 5 times"
+                        ]
+                    },
+                    "response": "2 to 3 times"
+                },
+                "Q7": {
+                    "question": {
+                        "question": "For how long did the episode last?",
+                        "options": [
+                            "Less than 30 minutes",
+                            "30 mins to an hour",
+                            "1 to 4 hours",
+                            "Full day"
+                        ]
+                    },
+                    "response": "30 mins to an hour"
+                },
+                "Q8": {
+                    "question": {
+                        "question": "How did it impact Martha's daily activities?",
+                        "options": [
+                            "Difficulty eating and drinking",
+                            "Difficulty walking",
+                            "Fatigue",
+                            "Severe dehydration"
+                        ]
+                    },
+                    "response": "fatigue"
+                }
+            }
+        },
+        {
+            "Week 3": {
+                "current_question_index": 7,
+                "Q1": {
+                    "question": {
+                        "question": "How is Martha's mood today?",
+                        "options": [
+                            "Agitated",
+                            "Angry",
+                            "Frustrated",
+                            "Lost",
+                            "Neutral",
+                            "Happy"
+                        ]
+                    },
+                    "response": "Lost"
+                },
+                "Q2": {
+                    "question": {
+                        "question": "Has Martha experienced any of the following in the past week?",
+                        "options": [
+                            "Increasing irritability",
+                            "Wandering",
+                            "Delusions"
+                        ]
+                    },
+                    "response": "wandering"
+                },
+                "Q3": {
+                    "question": "How long did Martha sleep yesterday?",
+                    "response": "upto 6 hours"
+                },
+                "Q4": {
+                    "question": {
+                        "question": "How was Martha's sleep yesterday?",
+                        "options": [
+                            "Well rested",
+                            "Woke up once",
+                            "Woke up 2 or 3 times",
+                            "Woke up 4 or more times",
+                            "Disrupted"
+                        ]
+                    },
+                    "response": "woke up once"
+                },
+                "Q5": {
+                    "question": {
+                        "question": "Has Martha experienced any vomiting in the past week? (yes/no)",
+                        "options": [
+                            "yes",
+                            "no"
+                        ]
+                    },
+                    "response": "yes"
+                },
+                "Q6": {
+                    "question": {
+                        "question": "How many times in the past week?",
+                        "options": [
+                            "Once only",
+                            "2 to 3 times",
+                            "4 to 5 times",
+                            "More than 5 times"
+                        ]
+                    },
+                    "response": "Once only"
+                },
+                "Q7": {
+                    "question": {
+                        "question": "For how long did the episode last?",
+                        "options": [
+                            "Less than 30 minutes",
+                            "30 mins to an hour",
+                            "1 to 4 hours",
+                            "Full day"
+                        ]
+                    },
+                    "response": "Less than 30 minutes"
+                }
+            },
+            "Week 4": {
+                "current_question_index": 8,
+                "Q1": {
+                    "question": {
+                        "question": "How is Martha's mood today?",
+                        "options": [
+                            "Agitated",
+                            "Angry",
+                            "Frustrated",
+                            "Lost",
+                            "Neutral",
+                            "Happy"
+                        ]
+                    },
+                    "response": "Neutral"
+                },
+                "Q2": {
+                    "question": {
+                        "question": "Has Martha experienced any of the following in the past week?",
+                        "options": [
+                            "Increasing irritability",
+                            "Wandering",
+                            "Delusions"
+                        ]
+                    },
+                    "response": "none"
+                },
+                "Q3": {
+                    "question": "How long did Martha sleep yesterday?",
+                    "response": "Upto 8 hours"
+                },
+                "Q4": {
+                    "question": {
+                        "question": "How was Martha's sleep yesterday?",
+                        "options": [
+                            "Well rested",
+                            "Woke up once",
+                            "Woke up 2 or 3 times",
+                            "Woke up 4 or more times",
+                            "Disrupted"
+                        ]
+                    },
+                    "response": "Well rested"
+                },
+                "Q5": {
+                    "question": {
+                        "question": "Has Martha experienced any vomiting in the past week? (yes/no)",
+                        "options": [
+                            "yes",
+                            "no"
+                        ]
+                    },
+                    "response": "yes"
+                },
+                "Q6": {
+                    "question": {
+                        "question": "How many times in the past week?",
+                        "options": [
+                            "Once only",
+                            "2 to 3 times",
+                            "4 to 5 times",
+                            "More than 5 times"
+                        ]
+                    },
+                    "response": "Once only"
+                },
+                "Q7": {
+                    "question": {
+                        "question": "For how long did the episode last?",
+                        "options": [
+                            "Less than 30 minutes",
+                            "30 mins to an hour",
+                            "1 to 4 hours",
+                            "Full day"
+                        ]
+                    },
+                    "response": "Less than 30 minutes"
+                },
+                "Q8": {
+                    "question": {
+                        "question": "How did it impact Martha's daily activities?",
+                        "options": [
+                            "Difficulty eating and drinking",
+                            "Difficulty walking",
+                            "Fatigue",
+                            "Severe dehydration"
+                        ]
+                    },
+                    "response": "Difficulty eating and drinking"
+                }
+            }
+        },
+        {
+            "Week 5": {
+                "current_question_index": 5,
+                "Q1": {
+                    "question": {
+                        "question": "How is Martha's mood today?",
+                        "options": [
+                            "Agitated",
+                            "Angry",
+                            "Frustrated",
+                            "Lost",
+                            "Neutral",
+                            "Happy"
+                        ]
+                    },
+                    "response": "Angry"
+                },
+                "Q2": {
+                    "question": {
+                        "question": "Has Martha experienced any of the following in the past week?",
+                        "options": [
+                            "Increasing irritability",
+                            "Wandering",
+                            "Delusions"
+                        ]
+                    },
+                    "response": "Wandering"
+                },
+                "Q3": {
+                    "question": "How long did Martha sleep yesterday?",
+                    "response": "Around 8 hours"
+                },
+                "Q4": {
+                    "question": {
+                        "question": "How was Martha's sleep yesterday?",
+                        "options": [
+                            "Well rested",
+                            "Woke up once",
+                            "Woke up 2 or 3 times",
+                            "Woke up 4 or more times",
+                            "Disrupted"
+                        ]
+                    },
+                    "response": "Well Rested"
+                },
+                "Q5": {
+                    "question": {
+                        "question": "Has Martha experienced any vomiting in the past week? (yes/no)",
+                        "options": [
+                            "yes",
+                            "no"
+                        ]
+                    },
+                    "response": "yes"
+                }
+            }
+        }
+    ]
+}
